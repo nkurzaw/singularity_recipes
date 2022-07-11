@@ -37,4 +37,3 @@ Stage: build
         #conda activate chemprop
         #pip install -e .
         conda run -n chemprop pip install -e .
-        source activate chemprop
